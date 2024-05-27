@@ -1,1 +1,1 @@
-# web-pickitup
+# pickitup
