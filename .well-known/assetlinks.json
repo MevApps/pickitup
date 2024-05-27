@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mevapps.pickitup",
+      "sha256_cert_fingerprints": [
+        "5A:37:51:19:8F:1E:46:8E:FA:90:FC:54:FA:D5:04:BB:12:0A:6E:CF:E6:95:2F:B0:77:50:A1:3F:15:A6:E6:75"
+      ]
+    }
+  }
+]
